@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2C9BBC-88ED-462C-9631-EE7B3B341EF0}|demoLibrary\\demoLibrary.csproj|l:\\work\\asp net course\\practice\\mediatrdemo\\demolibrary\\queries\\getpersonbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2C9BBC-88ED-462C-9631-EE7B3B341EF0}|demoLibrary\\demoLibrary.csproj|solutionrelative:demolibrary\\queries\\getpersonbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2C9BBC-88ED-462C-9631-EE7B3B341EF0}|demoLibrary\\demoLibrary.csproj|l:\\work\\asp net course\\practice\\mediatrdemo\\demolibrary\\handlers\\getpersonbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2C9BBC-88ED-462C-9631-EE7B3B341EF0}|demoLibrary\\demoLibrary.csproj|solutionrelative:demolibrary\\handlers\\getpersonbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EB434F-AD1E-4936-B6AB-241E0FAD8CE3}|DemoApi\\DemoApi.csproj|l:\\work\\asp net course\\practice\\mediatrdemo\\demoapi\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EB434F-AD1E-4936-B6AB-241E0FAD8CE3}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EB434F-AD1E-4936-B6AB-241E0FAD8CE3}|DemoApi\\DemoApi.csproj|l:\\work\\asp net course\\practice\\mediatrdemo\\demoapi\\demoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57EB434F-AD1E-4936-B6AB-241E0FAD8CE3}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\demoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2C9BBC-88ED-462C-9631-EE7B3B341EF0}|demoLibrary\\demoLibrary.csproj|l:\\work\\asp net course\\practice\\mediatrdemo\\demolibrary\\dataaccess\\idataaccesss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2C9BBC-88ED-462C-9631-EE7B3B341EF0}|demoLibrary\\demoLibrary.csproj|solutionrelative:demolibrary\\dataaccess\\idataaccesss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2C9BBC-88ED-462C-9631-EE7B3B341EF0}|demoLibrary\\demoLibrary.csproj|l:\\work\\asp net course\\practice\\mediatrdemo\\demolibrary\\dataaccess\\demodataaccesss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2C9BBC-88ED-462C-9631-EE7B3B341EF0}|demoLibrary\\demoLibrary.csproj|solutionrelative:demolibrary\\dataaccess\\demodataaccesss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2C9BBC-88ED-462C-9631-EE7B3B341EF0}|demoLibrary\\demoLibrary.csproj|l:\\work\\asp net course\\practice\\mediatrdemo\\demolibrary\\handlers\\insertpersonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2C9BBC-88ED-462C-9631-EE7B3B341EF0}|demoLibrary\\demoLibrary.csproj|solutionrelative:demolibrary\\handlers\\insertpersonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2C9BBC-88ED-462C-9631-EE7B3B341EF0}|demoLibrary\\demoLibrary.csproj|l:\\work\\asp net course\\practice\\mediatrdemo\\demolibrary\\handlers\\getpersonlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2C9BBC-88ED-462C-9631-EE7B3B341EF0}|demoLibrary\\demoLibrary.csproj|solutionrelative:demolibrary\\handlers\\getpersonlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2C9BBC-88ED-462C-9631-EE7B3B341EF0}|demoLibrary\\demoLibrary.csproj|l:\\work\\asp net course\\practice\\mediatrdemo\\demolibrary\\commands\\insertpersoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2C9BBC-88ED-462C-9631-EE7B3B341EF0}|demoLibrary\\demoLibrary.csproj|solutionrelative:demolibrary\\commands\\insertpersoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2C9BBC-88ED-462C-9631-EE7B3B341EF0}|demoLibrary\\demoLibrary.csproj|l:\\work\\asp net course\\practice\\mediatrdemo\\demolibrary\\queries\\getpersonlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2C9BBC-88ED-462C-9631-EE7B3B341EF0}|demoLibrary\\demoLibrary.csproj|solutionrelative:demolibrary\\queries\\getpersonlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EB434F-AD1E-4936-B6AB-241E0FAD8CE3}|DemoApi\\DemoApi.csproj|l:\\work\\asp net course\\practice\\mediatrdemo\\demoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EB434F-AD1E-4936-B6AB-241E0FAD8CE3}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EB434F-AD1E-4936-B6AB-241E0FAD8CE3}|DemoApi\\DemoApi.csproj|l:\\work\\asp net course\\practice\\mediatrdemo\\demoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EB434F-AD1E-4936-B6AB-241E0FAD8CE3}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6069BE1C-5233-4827-8DE2-79867A0A4AC6}|BlazorUI\\BlazorUI.csproj|l:\\work\\asp net course\\practice\\mediatrdemo\\blazorui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6069BE1C-5233-4827-8DE2-79867A0A4AC6}|BlazorUI\\BlazorUI.csproj|solutionrelative:blazorui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DemoApi",
+              "DocumentMoniker": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\DemoApi\\DemoApi.csproj",
+              "RelativeDocumentMoniker": "DemoApi\\DemoApi.csproj",
+              "ToolTip": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\DemoApi\\DemoApi.csproj",
+              "RelativeToolTip": "DemoApi\\DemoApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T18:14:38.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDataAccesss.cs",
+              "DocumentMoniker": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\demoLibrary\\DataAccess\\IDataAccesss.cs",
+              "RelativeDocumentMoniker": "demoLibrary\\DataAccess\\IDataAccesss.cs",
+              "ToolTip": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\demoLibrary\\DataAccess\\IDataAccesss.cs",
+              "RelativeToolTip": "demoLibrary\\DataAccess\\IDataAccesss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:41:59.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetPersonByIdQuery.cs",
+              "DocumentMoniker": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\demoLibrary\\Queries\\GetPersonByIdQuery.cs",
+              "RelativeDocumentMoniker": "demoLibrary\\Queries\\GetPersonByIdQuery.cs",
+              "ToolTip": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\demoLibrary\\Queries\\GetPersonByIdQuery.cs",
+              "RelativeToolTip": "demoLibrary\\Queries\\GetPersonByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:10:19.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetPersonByIdHandler.cs",
+              "DocumentMoniker": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\demoLibrary\\Handlers\\GetPersonByIdHandler.cs",
+              "RelativeDocumentMoniker": "demoLibrary\\Handlers\\GetPersonByIdHandler.cs",
+              "ToolTip": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\demoLibrary\\Handlers\\GetPersonByIdHandler.cs",
+              "RelativeToolTip": "demoLibrary\\Handlers\\GetPersonByIdHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:27:40.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\DemoApi\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "DemoApi\\Controllers\\PersonController.cs",
+              "ToolTip": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\DemoApi\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "DemoApi\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T19:55:34.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DemoDataAccesss.cs",
+              "DocumentMoniker": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\demoLibrary\\DataAccess\\DemoDataAccesss.cs",
+              "RelativeDocumentMoniker": "demoLibrary\\DataAccess\\DemoDataAccesss.cs",
+              "ToolTip": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\demoLibrary\\DataAccess\\DemoDataAccesss.cs",
+              "RelativeToolTip": "demoLibrary\\DataAccess\\DemoDataAccesss.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:41:57.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetPersonListHandler.cs",
+              "DocumentMoniker": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\demoLibrary\\Handlers\\GetPersonListHandler.cs",
+              "RelativeDocumentMoniker": "demoLibrary\\Handlers\\GetPersonListHandler.cs",
+              "ToolTip": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\demoLibrary\\Handlers\\GetPersonListHandler.cs",
+              "RelativeToolTip": "demoLibrary\\Handlers\\GetPersonListHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:32:56.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsertPersonHandler.cs",
+              "DocumentMoniker": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\demoLibrary\\Handlers\\InsertPersonHandler.cs",
+              "RelativeDocumentMoniker": "demoLibrary\\Handlers\\InsertPersonHandler.cs",
+              "ToolTip": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\demoLibrary\\Handlers\\InsertPersonHandler.cs",
+              "RelativeToolTip": "demoLibrary\\Handlers\\InsertPersonHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:47:56.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InsertPersonCommand.cs",
+              "DocumentMoniker": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\demoLibrary\\Commands\\InsertPersonCommand.cs",
+              "RelativeDocumentMoniker": "demoLibrary\\Commands\\InsertPersonCommand.cs",
+              "ToolTip": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\demoLibrary\\Commands\\InsertPersonCommand.cs",
+              "RelativeToolTip": "demoLibrary\\Commands\\InsertPersonCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:44:20.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetPersonListQuery.cs",
+              "DocumentMoniker": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\demoLibrary\\Queries\\GetPersonListQuery.cs",
+              "RelativeDocumentMoniker": "demoLibrary\\Queries\\GetPersonListQuery.cs",
+              "ToolTip": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\demoLibrary\\Queries\\GetPersonListQuery.cs",
+              "RelativeToolTip": "demoLibrary\\Queries\\GetPersonListQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:33:21.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\DemoApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DemoApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\DemoApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DemoApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:02:29.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\DemoApi\\Program.cs",
+              "RelativeDocumentMoniker": "DemoApi\\Program.cs",
+              "ToolTip": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\DemoApi\\Program.cs",
+              "RelativeToolTip": "DemoApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T19:52:13.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\BlazorUI\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorUI\\Program.cs",
+              "ToolTip": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\BlazorUI\\Program.cs",
+              "RelativeToolTip": "BlazorUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T19:51:40.917Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F3lufdDf6cwT0nasKYRpRyFiuYavWijWzGa3K6QDEzZicqV8oCuEeGrtImTJCxAP+rKFNVhIWONbxK08b2q0qQ==",
+  "success": true,
+  "projectFilePath": "L:\\Work\\ASP NET Course\\Practice\\MediaTrDemo\\demoLibrary\\demoLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PMYLS\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

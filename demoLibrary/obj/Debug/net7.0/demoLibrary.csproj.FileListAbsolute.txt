@@ -1,0 +1,13 @@
+L:\Work\ASP NET Course\Practice\MediaTrDemo\demoLibrary\bin\Debug\net7.0\demoLibrary.deps.json
+L:\Work\ASP NET Course\Practice\MediaTrDemo\demoLibrary\bin\Debug\net7.0\demoLibrary.dll
+L:\Work\ASP NET Course\Practice\MediaTrDemo\demoLibrary\bin\Debug\net7.0\demoLibrary.pdb
+L:\Work\ASP NET Course\Practice\MediaTrDemo\demoLibrary\obj\Debug\net7.0\demoLibrary.csproj.AssemblyReference.cache
+L:\Work\ASP NET Course\Practice\MediaTrDemo\demoLibrary\obj\Debug\net7.0\demoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+L:\Work\ASP NET Course\Practice\MediaTrDemo\demoLibrary\obj\Debug\net7.0\demoLibrary.AssemblyInfoInputs.cache
+L:\Work\ASP NET Course\Practice\MediaTrDemo\demoLibrary\obj\Debug\net7.0\demoLibrary.AssemblyInfo.cs
+L:\Work\ASP NET Course\Practice\MediaTrDemo\demoLibrary\obj\Debug\net7.0\demoLibrary.csproj.CoreCompileInputs.cache
+L:\Work\ASP NET Course\Practice\MediaTrDemo\demoLibrary\obj\Debug\net7.0\demoLibrary.sourcelink.json
+L:\Work\ASP NET Course\Practice\MediaTrDemo\demoLibrary\obj\Debug\net7.0\demoLibrary.dll
+L:\Work\ASP NET Course\Practice\MediaTrDemo\demoLibrary\obj\Debug\net7.0\refint\demoLibrary.dll
+L:\Work\ASP NET Course\Practice\MediaTrDemo\demoLibrary\obj\Debug\net7.0\demoLibrary.pdb
+L:\Work\ASP NET Course\Practice\MediaTrDemo\demoLibrary\obj\Debug\net7.0\ref\demoLibrary.dll
